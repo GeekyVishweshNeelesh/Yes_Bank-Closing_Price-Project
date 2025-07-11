@@ -62,7 +62,7 @@ The objective is to develop a predictive model that can forecast the **monthly c
 ├── models/
 │ └── best_xgb_model.joblib
 ├── README.md
-└── requirements.txt
+
 
 ## 🛠️ Technologies Used
 
