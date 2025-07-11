@@ -56,10 +56,13 @@ The objective is to develop a predictive model that can forecast the **monthly c
 ## 📂 Repository Structure
 
 ├── data/
+
 │ └── data_YesBank_StockPrices.csv
 ├── notebooks/
+
 │ └── YesBank_Stock_Price_Prediction.ipynb
 ├── models/
+
 │ └── best_xgb_model.joblib
 ├── README.md
 
